@@ -43,7 +43,7 @@ export default class App extends Component {
               <Categorylist currentCategory={this.state.currentCategory} changeCategory={this.changeCategory} info={categoryInfo}/>
             </Col>
             <Col xs="9">
-              <Productlist info={productInfo}/>
+              <Productlist currentCategory={this.state.currentCategory} info={productInfo}/>
             </Col>
           </Row>
           
