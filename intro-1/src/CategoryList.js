@@ -5,6 +5,7 @@ export default class Categorylist extends Component {
     render() {
         return (
             <div>
+                <h3>{this.props.info.title}</h3>
                 <h2>CategoryList component</h2>
                 <ListGroup>
                     <ListGroupItem disabled tag="a" href="#">Cras justo odio</ListGroupItem>
