@@ -1,28 +1,91 @@
 {
     "products": [
         {
-            "id": 8,
+            "id": 1,
             "categoryId": 3,
-            "productName": "Utopia",
+            "productName": "The Naval Treaty",
             "quantityPerUnit": "24 - 12",
             "unitPrice": "18",
             "unitsInStock": 24
         },
         {
+            "id": 2,
+            "categoryId": 3,
+            "productName": "Chess Story",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 3,
+            "categoryId": 3,
+            "productName": "Amok",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },{
+            "id": 4,
+            "categoryId": 3,
+            "productName": "Fear",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },{
+            "id": 5,
+            "categoryId": 3,
+            "productName": "In The Penal Colony",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 6,
+            "categoryId": 3,
+            "productName": "Diary Of A Madman",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 7,
+            "categoryId": 3,
+            "productName": "A Room Of Ones Own",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 8,
+            "categoryId": 3,
+            "productName": "Notes From Underground",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 9,
+            "categoryId": 3,
+            "productName": "The Sorrows Of Young Werther",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
             "id": 10,
             "categoryId": 3,
-            "productName": "Kumarbaz",
+            "productName": "Utopia",
             "quantityPerUnit": "6 - 12",
             "unitPrice": "8",
             "unitsInStock": 18
         }
+
     ],
 
     "categories": [
         {
             "id": 1,
-            "categoryName": "Books",
-            "seoUrl": "books"
+            "categoryName": "Music",
+            "seoUrl": "music"
         },
         {
             "id": 2,
@@ -31,8 +94,8 @@
         },
         {
             "id": 3,
-            "categoryName": "Music",
-            "seoUrl": "music"
+            "categoryName": "Books",
+            "seoUrl": "books"
         },
         {
             "id": 4,
