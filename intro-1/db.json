@@ -1,42 +1,48 @@
 {
     "products": [
         {
-            "id": 1,
-            "categoryId": 2,
-            "productName": "Chai",
-            "quantityPerUnit": "48 - 6 oz jars",
-            "unitPrice": "23",
-            "unitsInStock": 53
-        },
-        {
-            "id": 2,
-            "categoryId": 1,
-            "productName": "Chang",
-            "quantityPerUnit": "24 - 12 oz bottles",
-            "unitPrice": "21",
-            "unitsInStock": 17
-        },
-        {
-            "id": 3,
+            "id": 8,
             "categoryId": 3,
-            "productName": "Chef Antos",
-            "quantityPerUnit": "48 - 6 oz jars",
-            "unitPrice": "23",
-            "unitsInStock": 53
-        },  
+            "productName": "Utopia",
+            "quantityPerUnit": "24 - 12",
+            "unitPrice": "18",
+            "unitsInStock": 24
+        },
+        {
+            "id": 10,
+            "categoryId": 3,
+            "productName": "Kumarbaz",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        }
     ],
 
     "categories": [
         {
             "id": 1,
-            "categoryName": "Beverages",
-            "seoUrl": "beverages"
+            "categoryName": "Books",
+            "seoUrl": "books"
         },
-
         {
             "id": 2,
-            "categoryName": "Condiments",
-            "seoUrl": "condiments"
+            "categoryName": "Electronic",
+            "seoUrl": "electronic",
+        },
+        {
+            "id": 3,
+            "categoryName": "Music",
+            "seoUrl": "music"
+        },
+        {
+            "id": 4,
+            "categoryName": "Magazine",
+            "seoUrl": "magazine"
+        },
+        {
+            "id": 5,
+            "categoryName": "Game Console",
+            "seoUrl": "game_console"
         }
     ]
 }
