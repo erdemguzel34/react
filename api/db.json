@@ -4,15 +4,15 @@
             "id": 1,
             "categoryId": 3,
             "productName": "The Naval Treaty",
-            "quantityPerUnit": "24 - 12",
+            "quantityPerUnit": "16 books",
             "unitPrice": "18",
-            "unitsInStock": 24
+            "unitsInStock": 9
         },
         {
             "id": 2,
             "categoryId": 3,
             "productName": "Chess Story",
-            "quantityPerUnit": "6 - 12",
+            "quantityPerUnit": "16 books",
             "unitPrice": "8",
             "unitsInStock": 18
         },
@@ -20,95 +20,95 @@
             "id": 3,
             "categoryId": 3,
             "productName": "Amok",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "12",
+            "unitsInStock": 6
         },{
             "id": 4,
             "categoryId": 3,
             "productName": "Fear",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "17",
+            "unitsInStock": 6
         },{
             "id": 5,
             "categoryId": 3,
             "productName": "In The Penal Colony",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "20 books",
+            "unitPrice": "7",
+            "unitsInStock": 1
         },
         {
             "id": 6,
             "categoryId": 3,
             "productName": "Diary Of A Madman",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
+            "quantityPerUnit": "16 books",
+            "unitPrice": "50",
             "unitsInStock": 18
         },
         {
             "id": 7,
             "categoryId": 3,
             "productName": "A Room Of Ones Own",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "17",
+            "unitsInStock": 9
         },
         {
             "id": 8,
             "categoryId": 3,
             "productName": "Notes From Underground",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "10",
+            "unitsInStock": 2
         },
         {
             "id": 9,
             "categoryId": 3,
             "productName": "The Sorrows Of Young Werther",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "22",
+            "unitsInStock": 7
         },
         {
             "id": 10,
             "categoryId": 3,
             "productName": "Utopia",
-            "quantityPerUnit": "6 - 12",
-            "unitPrice": "8",
-            "unitsInStock": 18
+            "quantityPerUnit": "16 books",
+            "unitPrice": "22",
+            "unitsInStock": 2
         },
         {
             "id": 11,
             "categoryId": 1,
             "productName": "Africa Speaks - Santana",
-            "quantityPerUnit": "6 - 12",
+            "quantityPerUnit": "24 cd",
             "unitPrice": "8",
-            "unitsInStock": 18
+            "unitsInStock": 4
         },
         {
             "id": 12,
             "categoryId": 1,
             "productName": "Soul Box - Grover Washington Jr.",
-            "quantityPerUnit": "6 - 12",
+            "quantityPerUnit": "24 cd",
             "unitPrice": "8",
-            "unitsInStock": 18
+            "unitsInStock": 2
         },
         {
             "id": 13,
             "categoryId": 1,
             "productName": "After Hours - The Weeknd",
-            "quantityPerUnit": "6 - 12",
+            "quantityPerUnit": "24 cd",
             "unitPrice": "8",
-            "unitsInStock": 18
+            "unitsInStock": 6
         },
         {
             "id": 14,
             "categoryId": 1,
             "productName": "Folklore - Taylor Swift",
-            "quantityPerUnit": "6 - 12",
+            "quantityPerUnit": "24 cd",
             "unitPrice": "8",
-            "unitsInStock": 18
+            "unitsInStock": 1
         },
 
 
@@ -123,7 +123,7 @@
         {
             "id": 2,
             "categoryName": "Electronic",
-            "seoUrl": "electronic",
+            "seoUrl": "electronic"
         },
         {
             "id": 3,
