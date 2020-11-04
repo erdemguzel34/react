@@ -77,7 +77,40 @@
             "quantityPerUnit": "6 - 12",
             "unitPrice": "8",
             "unitsInStock": 18
-        }
+        },
+        {
+            "id": 11,
+            "categoryId": 1,
+            "productName": "Africa Speaks - Santana",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 12,
+            "categoryId": 1,
+            "productName": "Soul Box - Grover Washington Jr.",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 13,
+            "categoryId": 1,
+            "productName": "After Hours - The Weeknd",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+        {
+            "id": 14,
+            "categoryId": 1,
+            "productName": "Folklore - Taylor Swift",
+            "quantityPerUnit": "6 - 12",
+            "unitPrice": "8",
+            "unitsInStock": 18
+        },
+
 
     ],
 
